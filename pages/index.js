@@ -52,6 +52,36 @@ export default function Home() {
         width="272px"
         height="400px"
       />
+      <Image
+        src="https://s3.amazonaws.com/icon.online/iconImg-Michelle-Valberg-1671398744363.jpeg"
+        width="272px"
+        height="400px"
+      />
+      <Image
+        src="https://s3.amazonaws.com/icon.online/iconImg-Paul-Zizka-1670611332874.jpeg"
+        width="272px"
+        height="400px"
+      />
+      <Image
+        src="https://s3.amazonaws.com/icon.online/iconImg-Michelle-Valberg-1671397304951.jpeg"
+        width="272px"
+        height="400px"
+      />
+      <Image
+        src="https://s3.amazonaws.com/icon.online/iconImg-Michelle-Valberg-1671397304951.jpeg"
+        width="272px"
+        height="400px"
+      />
+      <Image
+        src="https://s3.amazonaws.com/icon.online/iconImg-Shubham-Khatri-1666099540395.jpeg"
+        width="272px"
+        height="400px"
+      />
+      <Image
+        src="https://s3.amazonaws.com/icon.online/iconImg-Chris-Orwig-1670869468061.jpeg"
+        width="272px"
+        height="400px"
+      />
     </>
   );
 }
