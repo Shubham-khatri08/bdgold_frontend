@@ -21,28 +21,37 @@ export default function Home() {
   return (
     <>
       Not signed in <br />
-      <button onClick={() => signIn()}>Sign in</button>
-      <div>
-        <Image
-          src="https://s3.amazonaws.com/icon.online/iconImg-Moose-Peterson-1672881641735.webp"
-          width="172px"
-          height="200px"
-        />
-      </div>
-      <div>
-        <Image
-          src="https://s3.amazonaws.com/icon.online/iconImg-Michelle-Valberg+CM-1672753134242.webp"
-          width="172px"
-          height="200px"
-        />
-      </div>
-      <div>
-        <Image
-          src="https://s3.amazonaws.com/icon.online/iconImg-Matt-Dusig-1672711266471.webp"
-          width="172px"
-          height="200px"
-        />
-      </div>
+      {/* <button onClick={() => signIn()}>Sign in</button> */}
+      <Image
+        src="https://s3.amazonaws.com/icon.online/iconImg-Moose-Peterson-1672881641735.webp"
+        width="172px"
+        height="200px"
+      />
+      <Image
+        src="https://s3.amazonaws.com/icon.online/iconImg-Michelle-Valberg+CM-1672753134242.webp"
+        width="172px"
+        height="200px"
+      />
+      <Image
+        src="https://s3.amazonaws.com/icon.online/iconImg-Matt-Dusig-1672711266471.webp"
+        width="172px"
+        height="200px"
+      />
+      <Image
+        src="https://s3.amazonaws.com/icon.online/iconImg-Paul-Zizka-1670611370354.jpeg"
+        width="272px"
+        height="400px"
+      />
+      <Image
+        src="https://s3.amazonaws.com/icon.online/iconImg-Paul-Zizka-1670611370354.jpeg"
+        width="272px"
+        height="400px"
+      />
+      <Image
+        src="https://s3.amazonaws.com/icon.online/iconImg-Paul-Zizka-1670611306277.jpeg"
+        width="272px"
+        height="400px"
+      />
     </>
   );
 }
